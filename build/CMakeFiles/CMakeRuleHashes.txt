@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ef5edb97bdc64cd7e2c533fe02d3ae4e CMakeFiles/videostitch.dir/videostitch_generated_composer.cu.o

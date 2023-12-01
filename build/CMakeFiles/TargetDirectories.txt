@@ -1,0 +1,4 @@
+/home/senhuang/VideoStitch/build/CMakeFiles/rebuild_cache.dir
+/home/senhuang/VideoStitch/build/CMakeFiles/edit_cache.dir
+/home/senhuang/VideoStitch/build/CMakeFiles/videostitch.dir
+/home/senhuang/VideoStitch/build/CMakeFiles/hello.dir
